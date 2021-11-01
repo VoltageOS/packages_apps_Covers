@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2020 Project 404
+<!-- Copyright (C) 2020 VoltageOS
 
      Licensed under the GNU GPLv2 license
 
@@ -8,5 +8,5 @@
 -->
 
 <resources>
-    <string name="app_name">404 Covers</string>
+    <string name="app_name">VoltageOS Covers</string>
 </resources>
