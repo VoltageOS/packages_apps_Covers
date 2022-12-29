@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2020 Project 404
+<!-- Copyright (C) 2022 VoltageOS
 
      Licensed under the GNU GPLv2 license
 
@@ -18,5 +18,15 @@
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
         <item>wallpaper_8</item>
+        <item>wallpaper_9</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_16</item>
+        <item>wallpaper_17</item>
+        <item>wallpaper_18</item>
     </array>
 </resources>
